@@ -51,10 +51,15 @@ Wir haben uns dazu entschieden einen Passwortmanager zu programmieren. Dieser ve
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
+
+UC Diagramm
 <img width="535" alt="Bildschirm­foto 2023-02-21 um 11 40 11 AM" src="https://user-images.githubusercontent.com/89131189/220322734-e3646ffe-c5fe-450c-b0a0-3362e5c2d34c.png">
 
-![Hauptprogramm 1](https://user-images.githubusercontent.com/110892283/220323841-7dc75050-f933-447b-851e-a83685cc9653.png)
+PAP nur mit Muss Verbindlichkeiten
+![Passwort Manager](https://user-images.githubusercontent.com/110892283/220338700-ed5eba97-1104-4a7a-bbce-471a0e3b8b68.png)
 
+Zusätzliche Informieren und Planen unterlagen
+![WhatsApp Image 2023-02-21 at 12 57 02](https://user-images.githubusercontent.com/110892283/220338905-f43dfcde-e554-49c8-a69a-ce37672520c5.jpeg)
 
 ## 2 Planen
 
