@@ -16,10 +16,20 @@ Wir haben uns dazu entschieden einen Passwortmanager zu programmieren. Dieser ve
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
+|US-№|Verbindlichkeit|Typ|Beschreibung|
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |Muss|Funktionalität| Als ein Benutzer möchte ich Profile erstellen können, damit ich mein Passwort speichern kann |
+| 2 |Muss|Funktionalität|Als ein Benutzer möchte ich in meinen Profilen, Nutzername, Email und Passwort speichern können|
+| 3 |Muss|Funktionalität|Als ein Benutzer möchte ich die Daten speichern können, damit ich meine Profile jederzeit aufrufen kann.|
+| 4 |Muss|Funktionalität|Als ein Benutzer möchte ich die möglichkeit haben meine Profile zu bearbeiten, damit ich meine Daten korrigieren kann.|
+| 5 |Muss|Funktionalität|Als ein Benutzer möchte ich das die Daten verschlüsselt werden, damit sie sicher sind.|
+| 6 |Muss|Funktionalität|Als ein Benutzer möchte ich ein übersichtliches Interface haben, damit ich auf alles einfach zugreifen kann.|
+| 7 |Muss|Funktionalität|Als ein Benutzer möchte ich die möglichkeit haben Passwörter generieren lassen, damit ich ein starkes Passwort habe|
+| 8 |Kann|Funktionalität|Als ein Benutzer möchte ich die möglichkeit haben ein Master Passwort einzubauen, damit nur ich auf meine Daten zugreifen kann.|
+| 9 |Kann|Funktionalität|Als ein Benutzer möchte ich die möglichkeit haben ein Sicherheitsschlüssel oder Sicherheitsfrage für das Master Passwort einzubauen, damit ich ein neues Masterpasswort erstellen kann wenn ich das alte vergressen habe.|
+| 10 |Kann|Funktionalität|Als ein Benutzer möchte ich die möglichkeit haben mehrere Emails / Nutzernamen in einem Profil einzubauen, damit es übersichtlicher für mich ist.|
+| 11 |Kann|Funktionalität|Als ein Benutzer möchte ich die möglichkeit haben Websiten pro Profil zu speichern, damit ich weiss zu welchem Passwort was gehört.|
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
