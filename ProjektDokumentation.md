@@ -12,9 +12,7 @@ Gruppe Carnation:
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
-
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Wir haben uns dazu entschieden einen Passwortmanager zu programmieren. Dieser verschlüsselt und speichert die Passwörter, damit sie sicher sind und man sie nicht vergessen kann. Die Passwörter und E-Mails sollen je in einem Profil gespeichert werden, welches man einzeln hervorrufen kann, damit man nicht zuerst nach den richtigen Daten suchen muss. Zudem wollen wir noch ein schönes UI machen, welches dem Benutzer das Gefühl von Sicherheit gibt.
 
 ### 1.2 User Stories
 
