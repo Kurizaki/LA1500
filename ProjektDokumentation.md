@@ -56,7 +56,7 @@ Wir haben uns dazu entschieden einen Passwortmanager zu programmieren. Dieser ve
 | 4.A  |        |Keanu/Robin|Profile bearbeite||
 | 5.A  |        |Sudenas    |Daten Verschöüsseln & entschlüsseln||
 | 6.A  |        |Cedric     |übersichtliches Interface||                     
-| 7.A           |Cedric     |Passwort Generator||
+| 7.A  |         |Cedric     |Passwort Generator||
 
 Total: 
 
