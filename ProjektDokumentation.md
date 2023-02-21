@@ -63,7 +63,8 @@ PAP nur mit Muss Verbindlichkeiten
 
 Zusätzliche Informieren und Planen unterlagen
 
-![WhatsApp Image 2023-02-21 at 12 57 02](https://user-images.githubusercontent.com/110892283/220338905-f43dfcde-e554-49c8-a69a-ce37672520c5.jpeg)
+![WhatsApp Image 2023-02-21 at 12 57 02](https://user-images.githubusercontent.com/110892283/220339634-b9d13d21-0e56-4590-a271-8f9b69887ba2.jpeg)
+
 
 ## 2 Planen
 
