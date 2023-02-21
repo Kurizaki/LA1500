@@ -53,6 +53,8 @@ Wir haben uns dazu entschieden einen Passwortmanager zu programmieren. Dieser ve
 ### 1.4 Diagramme
 <img width="535" alt="Bildschirm­foto 2023-02-21 um 11 40 11 AM" src="https://user-images.githubusercontent.com/89131189/220322734-e3646ffe-c5fe-450c-b0a0-3362e5c2d34c.png">
 
+![Hauptprogramm 1](https://user-images.githubusercontent.com/110892283/220323841-7dc75050-f933-447b-851e-a83685cc9653.png)
+
 
 ## 2 Planen
 
