@@ -51,8 +51,7 @@ Wir haben uns dazu entschieden einen Passwortmanager zu programmieren. Dieser ve
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
-
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
+<img width="569" alt="Bildschirm­foto 2023-02-21 um 11 37 08 AM" src="https://user-images.githubusercontent.com/89131189/220322604-c33cd0c4-1863-44e0-a46b-d52df0d2cc3f.png">
 
 ## 2 Planen
 
