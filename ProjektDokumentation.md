@@ -50,13 +50,13 @@ Wir haben uns dazu entschieden einen Passwortmanager zu programmieren. Dieser ve
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | -----  --------- | ------------ | ------------- 
-| 1.A  |        |Keanu/Robin|speichern des Profils               
-| 2.A  |        |Keanu/Robin|Nutzername,Email&Passwort speichern in Profilen
-| 3.A  |        |Keanu/Robin| Daten in Txt speichern
-| 4.A  |        |Keanu/Robin|Profile bearbeite
-| 5.A  |        |Sudenas    |Daten Verschöüsseln & entschlüsseln
-| 6.A  |        |Cedric     |übersichtliches Interface                     
-| 7.A           |Cedric     |Passwort Generator
+| 1.A  |        |Keanu/Robin|speichern des Profils ||              
+| 2.A  |        |Keanu/Robin|Nutzername,Email&Passwort speichern in Profilen||
+| 3.A  |        |Keanu/Robin| Daten in Txt speichern||
+| 4.A  |        |Keanu/Robin|Profile bearbeite||
+| 5.A  |        |Sudenas    |Daten Verschöüsseln & entschlüsseln||
+| 6.A  |        |Cedric     |übersichtliches Interface||                     
+| 7.A           |Cedric     |Passwort Generator||
 
 Total: 
 
