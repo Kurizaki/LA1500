@@ -1,19 +1,18 @@
+## Gruppe Carnation:
 
-## Gruppe Camelia:
+-Koelewijn (Projektleiter & Entwickler)
 
--Koelewijn (Gruppenleiter)
+-Tuma (Grafikdesigner & Entwickler)
 
--Tuma
+-Eser (Entwicklerin)
 
--Eser
+-Sacher (Entwickler)
 
--Sacher
-
-| Datum | Version | Zusammenfassung                                        |
-| ----- | ------- | ------------------------------------------------------ |
-|       | 0.0.1   | Projekt Idee und konzept des programms wurde überlegt. |
-|       | ...     |                                                        |
-|       | 1.0.0   |                                                        |
+| Datum    | Version | Zusammenfassung                                                                                                    |
+| -------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
+| 21.02.23 | 0.0.1   | Projekt Idee und konzept des programms wurde Festgelegt. Eine erste Version von 1.1, 1.2 und 1.4 wurde bearbeitet. |
+| 28.02.23 | 0.0.2   | Die Plannung wurde organisiert, die Aufgaben wurden aufgeteilt und 1.3, 2 und 3 wurden bearbeitet.                 |
+| 01.03.23 | 0.03    | 1.2, 1.3, 2 und 3 wurden überarbeitet.                                                                             |
 
 ## 1 Informieren
 
@@ -23,42 +22,48 @@ Wir haben uns dazu entschieden einen Passwortmanager zu programmieren. Dieser ve
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ            | Beschreibung                                                                                                                                                                                                              |
-| ---- | --------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | Muss            | Funktionalität | Als ein Benutzer möchte ich Profile erstellen können, damit ich mein Passwort speichern kann                                                                                                                              |
-| 2    | Muss            | Funktionalität | Als ein Benutzer möchte ich in meinen Profilen, Nutzername, Email und Passwort speichern können                                                                                                                           |
-| 3    | Muss            | Funktionalität | Als ein Benutzer möchte ich die Daten speichern können, damit ich meine Profile jederzeit aufrufen kann.                                                                                                                  |
-| 4    | Muss            | Funktionalität | Als ein Benutzer möchte ich die möglichkeit haben meine Profile zu bearbeiten, damit ich meine Daten korrigieren kann.                                                                                                    |
-| 5    | Muss            | Funktionalität | Als ein Benutzer möchte ich das die Daten verschlüsselt werden, damit sie sicher sind.                                                                                                                                    |
-| 6    | Muss            | Funktionalität | Als ein Benutzer möchte ich ein übersichtliches Interface haben, damit ich auf alles einfach zugreifen kann.                                                                                                              |
-| 7    | Muss            | Funktionalität | Als ein Benutzer möchte ich die möglichkeit haben Passwörter generieren lassen, damit ich ein starkes Passwort habe                                                                                                       |
-| 8    | Kann            | Funktionalität | Als ein Benutzer möchte ich die möglichkeit haben ein Master Passwort einzubauen, damit nur ich auf meine Daten zugreifen kann.                                                                                           |
-| 9    | Kann            | Funktionalität | Als ein Benutzer möchte ich die möglichkeit haben ein Sicherheitsschlüssel oder Sicherheitsfrage für das Master Passwort einzubauen, damit ich ein neues Masterpasswort erstellen kann wenn ich das alte vergressen habe. |
-| 10   | Kann            | Funktionalität | Als ein Benutzer möchte ich die möglichkeit haben mehrere Emails / Nutzernamen in einem Profil einzubauen, damit es übersichtlicher für mich ist.                                                                         |
-| 11   | Kann            | Funktionalität | Als ein Benutzer möchte ich die möglichkeit haben Websiten pro Profil zu speichern, damit ich weiss zu welchem Passwort was gehört.                                                                                       |
-
+| US-№ | Verbindlichkeit | Typ            | Beschreibung                                                                                                                                                                                     |
+| ---- | --------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1    | Muss            | Funktionalität | Als ein Benutzer möchte ich Profile erstellen können, damit ich mein Passwort speichern und verwalten kann.                                                                                      |
+| 2    | Muss            | Funktionalität | Als ein Benutzer möchte ich in meinen Profilen Nutzername, E-Mail-Adresse und Passwort speichern können, damit ich schnell und einfach zugriff auf meine Anmeldedaten habe.                      |
+| 3    | Muss            | Funktionalität | Als ein Benutzer möchte ich meine Profile speichern können, damit ich sie jederzeit abrufen und bearbeiten kann.                                                                                 |
+| 4    | Muss            | Funktionalität | Als ein Benutzer möchte ich die Möglichkeit haben, meine Profile zu bearbeiten, um meine Daten korrigieren und aktualisieren zu können.                                                          |
+| 5    | Muss            | Funktionalität | Als ein Benutzer möchte ich, dass meine Daten verschlüsselt werden, um ihre Sicherheit zu gewährleisten.                                                                                         |
+| 6    | Muss            | Funktionalität | Als ein Benutzer möchte ich ein benutzerfreundliches Interface haben, um schnell und einfach auf alle Funktionen zugreifen zu können.                                                            |
+| 7    | Muss            | Funktionalität | Als ein Benutzer möchte ich die Möglichkeit haben, starke Passwörter zu generieren, um meine Sicherheit zu erhöhen.                                                                              |
+| 8    | Kann            | Funktionalität | Als ein Benutzer möchte ich die Möglichkeit haben, ein Master-Passwort einzurichten, um meine Profile zu schützen.                                                                               |
+| 9    | Kann            | Funktionalität | Als ein Benutzer möchte ich die Möglichkeit haben, Sicherheitsfragen oder Sicherheitsschlüssel für das Master-Passwort zu verwenden, um das Passwort zurückzusetzen, wenn ich es vergessen habe. |
+| 10   | Muss            | Funktionalität | Als ein Benutzer möchte ich die Möglichkeit haben, ein Profil zu löschen, um alte oder nicht mehr benötigte Profile zu entfernen.                                                                |
+| 11   | Muss            | Funktionalität | Als ein Benutzer möchte ich die Möglichkeit haben, meine Passwörter zu kopieren und einzufügen, um sie schnell und einfach zu benutzen.                                                          |
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage                                           | Eingabe                                        | Erwartete Ausgabe                                                                                                                                                              |
-| ---- | ------------------------------------------------------ | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.1  | Benutzer ist im Menü                                   | klickt auf Profil Erstellen                    | Ein neues Form mit der möglichkeit ein Passwort zu erstellen wird geöffnet.                                                                                                    |
-| 2.1  | Benutzer ist in der Profil Erstellung                  | klickt auf Bestätigung                         | Profil wird gespeichert und das Form schliesst sich, benutzer kehrt zum Menü zurück.                                                                                           |
-| 2.2  | Benutzer ist in der Profil Erstellung                  | lässt eine Spalte Leer                         | Profil wird nicht gespeichert und eine Fehlermeldung wird ausgegeben.                                                                                                          |
-| 3.1  | Benutzer ist in der Profil Erstellung                  | klickt auf Bestätigung                         | Profil, Nutzername, Email, Passwort wird verschlüsselt, wird in Text datei eingeschrieben.                                                                                     |
-| 4.1  | Benutzer ist im Menü                                   | klickt auf Profil Ausgeben                     | Text datei wird ausgelesen, Profile, Nutzername, Email und Passwort wird getrennt in den Listen gespeichert und entschlüsselt. Neues Form wird erstellt und gibt die Daten aus |
-| 4.2  | Benutzer ist in der Profil Ausgabe                     | klickt auf bearbeiten eines bestimmten Profils | Neues Form öffnet sich, Profil mit bestimmten index wird ausgegeben.                                                                                                           |
-| 4.3  | Benutzer ist in der Profil bearbeitung                 | klickt auf bestätigung                         | bei bearbeitung wird das gewünschte Profil in der Liste mit dem Index verändert.                                                                                               |
-| 5.1  | Benutzer Bestätigt aus ein Forms                       | klickt auf bestätigung                         | Profil, Nutzername, Email, Passwort wird verschlüsselt, wird in Text datei eingeschrieben.                                                                                     |
-| 6.1  | Benutzer ist in der Applikation                        |                                                | Hat keine Probleme sich zu Navigieren.                                                                                                                                         |
-| 7.1  | Benutzer ist in der Profil Erstellung                  | klickt auf Passwort generieren                 | Ein Passwort mit verscheidenen Zeichen wird Generiert.                                                                                                                         |
-| 7.2  | Ein Passwort mit verscheidenen Zeichen wird Generiert. |                                                | Generiertes Passwort wird in der Text Box beim Passwort automatisch eingegeben                                                                                                 |
-| 8.1  | Starten des Programms                                  |                                                | Abfrage des Masterpassworts                                                                                                                                                    |
-| 9.1  | Erstes mal Starten des Programms                       |                                                | Registrierung eines Master Passworts und erstellung eines Sicherheitsschlüssels                                                                                                |
-| 9.2  | Starten des Programms                                  | 5 mal falsches Passwort eingeben               | Sicherheitsschlüssel wird erwartet                                                                                                                                             |
-| 9.3  | 5 mal falsches Passwort eingeben                       | Sicherheitsschlüssel wird eingegeben           | Neue Registrierung des Master Passworts wird geöffnet                                                                                                                          |
-| 9.4  | 5 mal falsches Passwort eingeben                       | 3 mal falscher Sicherheitsschlüssel eingegeben | Programm wird beendet                                                                                                                              |
-
+| TC-№ | Ausgangslage                                                        | Eingabe                                                                         | Erwartete Ausgabe                                                                                             |
+| ---- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 1.1  | Benutzer ist im Menü                                                | Klickt auf "Profil Erstellen"                                                   | Ein neues Form wird geöffnet, in dem der Benutzer ein Profil erstellen kann.                                  |
+| 1.2  | Benutzer ist im Menü                                                | Klickt auf "Profil Ausgeben"                                                    | Die Liste aller gespeicherten Profile wird angezeigt, wenn welche vorhanden sind.                             |
+| 2.1  | Benutzer ist in der Profil-Erstellung                               | Gibt gültige Informationen in alle Felder ein und Klickt auf "Profil speichern" | Profil wird gespeichert und das Form schliesst sich, benutzer kehrt zum Menü zurück.                          |
+| 2.2  | Benutzer ist in der Profil-Erstellung                               | Gibt ungültige Informationen in ein Feld ein und Klickt auf "Profil speichern"  | Profil wird nicht gespeichert und eine Fehlermeldung wird ausgegeben.                                         |
+| 3.1  | Benutzer ist in der Profil-Erstellung                               | Gibt gültige Informationen in alle Felder ein und Klickt auf "Profil speichern" | Profil, Nutzername, Email, Passwort wird verschlüsselt und in die Text datei eingeschrieben.                  |
+| 3.2  | Benutzer ist in der Profil-Erstellung                               | Gibt ungültige Informationen in ein Feld ein und Klickt auf "Profil speichern"  | Profil, Nutzername, Email, Passwort wird nicht verschlüsselt und nicht in die Text datei eingeschrieben.      |
+| 3.3  | Benutzer ist in der Profil-Erstellung                               | Klickt auf "Abbrechen"                                                          | Schliesst das Form und verwirft alle Änderungen.                                                              |
+| 4.1  | Benutzer ist im Menü                                                | Klickt auf "Profil Ausgeben"                                                    | Die Liste aller gespeicherten Profile wird angezeigt.                                                         |
+| 4.2  | Benutzer ist in der Profil Ausgabe                                  | klickt auf "bearbeiten" eines bestimmten Profils                                | Neues Form öffnet sich, Profil mit bestimmten index wird ausgegeben.                                          |
+| 4.3  | Benutzer hat ein Profil ausgewählt und bearbeitet es                | Klickt auf "Profil speichern"                                                   | Die bearbeiteten Informationen werden im ausgewählten Profil gespeichert. Das Form schließt sich.             |
+| 4.4  | Benutzer hat ein Profil ausgewählt und bearbeitet es                | Klickt auf "Abbrechen"                                                          | Schliesst das Form und verwirft alle Änderungen.                                                              |
+| 5.1  | Benutzer Bestätigt aus ein Forms                                    | klickt auf bestätigung                                                          | Profil, Nutzername, Email, Passwort wird verschlüsselt, wird in Text datei eingeschrieben.                    |
+| 6.1  | Der Benutzer möchte eine bestimmte Funktion nutzen                  | Klick auf das entsprechende Symbol/Icon                                         | Der Benutzer wird zur entsprechenden Funktion weitergeleitet, wo er alle relevanten Informationen sehen kann. |
+| 6.2  | Der Benutzer befindet sich auf einer Unterseite                     | Klick auf "Zurück"                                                              | Der Benutzer wird zur vorherigen Seite zurückgeleitet.                                                        |
+| 7.1  | Der Benutzer hat noch kein Passwort generiert                       | Klick auf "Passwort generieren"                                                 | Der Passwort-Generator generiert ein starkes, zufälliges Passwort und zeigt es dem Benutzer an.               |
+| 7.2  | Der Benutzer ist mit dem generierten Passwort nicht zufrieden       | Klick auf "Passwort generieren"                                                 | Der Passwort-Generator generiert ein neues, starkes, zufälliges Passwort.                                     |
+| 7.3  | Der Benutzer ist mit dem Passwort zufrieden und möchte es speichern | Klick auf "Profil speichern"                                                    | Das Passwort wird im Profil des Benutzers gespeichert.                                                        |
+| 8.1  | Starten des Programms                                               | Keine Eingabe benötigt                                                          | Ein Form mit der Abfrage des Master-Passworts wird geöffnet.                                                  |
+| 8.2  | Erstes mal Starten des Programms                                    | Keine Eingabe benötigt                                                          | Registrierung eines Master Passworts und erstellung eines Sicherheitsschlüssels                               |
+| 9.1  | Benutzer ist im Master-Passwort Form                                | 5 mal falsches Passwort eingeben                                                | Sicherheitsschlüssel wird erwartet                                                                            |
+| 9.2  | 5 mal falsches Passwort eingeben                                    | Sicherheitsschlüssel wird eingegeben                                            | Neue Registrierung des Master Passworts wird geöffnet                                                         |
+| 9.3  | 5 mal falsches Passwort eingeben                                    | 3 mal falscher Sicherheitsschlüssel eingegeben                                  | Programm wird beendet.                                                                                        |
+| 10.1 | Benutzer hat ein Profil ausgewählt und bearbeitet es                | Klickt auf "Profil Löschen"                                                     | Das ausgewählte Profil wird gelöscht und aus der Profil-Liste entfernt.                                       |
+| 11.1 | Benutzer ist in der Profil Ausgabe                                  | klickt auf "Passwort kopieren"                                                  | Das Passwort des ausgewählten Profils wird in die Zwischenablage kopiert.                                     |
 
 ### 1.4 Diagramme
 
@@ -78,31 +83,41 @@ Zusätzliche Informieren und Planen unterlagen
 
 | AP-№ | Frist    | Zuständig | Beschreibung                                           | geplante Zeit |
 | ---- | -------- | --------- | ------------------------------------------------------ | ------------- |
-| 1.A  | 07.03.23 | Koelewijn | Entwicklung der Profil Erstellung                      | 75min         |
-| 2.A  | 07.03.23 | Koelewijn | Einlesen von Text Datei, speichern in Listen           | 75min         |
-| 2.B  | 07.03.23 | Koelewijn | überschreiben der Text Datei                           | 30min         |
-| 3.A  | 07.03.23 | Sacher    | Einlesen von Text Datei, speichern in Listen           | 25min         |
-| 3.B  | 07.03.23 | Sacher    | Liste ausgeben in der Applikation                      | 75min         |
-| 4.A  | 14.03.23 | Sacher    | Entwicklung Abrufen der Profilen und bearbeiten        | 75min         |
-| 4.B  | 14.03.23 | Koelewijn | Veränderung in der Liste beim Bearbeiten eines Profils | 75min         |
+| 1.A  | 07.03.23 | Koelewijn | Entwicklung der Profil Erstellung                      | 150min        |
+| 2.A  | 07.03.23 | Koelewijn | Einlesen von Text Datei, speichern in Listen           | 150min        |
+| 2.B  | 07.03.23 | Koelewijn | überschreiben der Text Datei                           | 105min        |
+| 3.A  | 07.03.23 | Sacher    | Einlesen von Text Datei, speichern in Listen           | 100min        |
+| 3.B  | 07.03.23 | Sacher    | Liste ausgeben in der Applikation                      | 150min        |
+| 4.A  | 14.03.23 | Sacher    | Entwicklung Abrufen der Profilen und bearbeiten        | 150min        |
+| 4.B  | 14.03.23 | Koelewijn | Veränderung in der Liste beim Bearbeiten eines Profils | 150min        |
 | 5.A  | 07.03.23 | Eser      | Entwicklung der Verschlüsselung                        | 100min        |
 | 5.B  | 14.03.23 | Eser      | Entwicklung der Entschlüsselung                        | 100min        |
 | 5.C  | 14.03.23 | Eser      | Text Datei Verschlüsseln & Entschlüsseln               | 150min        |
 | 6.A  | 07.03.23 | Tuma      | Erste Version des UI                                   | 175min        |
 | 6.B  | 21.03.23 | Tuma      | Letzte Version des UI                                  | 175min        |
 | 7.A  | 14.03.23 | Tuma      | Entwicklung des Passwort Generator                     | 45min         |
-| 8.A  | 21.03.23 | Koeleiwjn | Entwicklung des Master Passworts                       | 75min         |
-| 9.A  | 21.03.23 | Sacher    | 6 Stelliger Sicherheitsschlüssel generieren lassen     | 25min         |
+| 8.A  | 21.03.23 | Koeleiwjn | Entwicklung des Master Passworts                       | 150min        |
+| 9.A  | 21.03.23 | Sacher    | 6 Stelliger Sicherheitsschlüssel generieren lassen     | 100min        |
+| 10.A | 21.03.23 | Koelewijn | Entwicklung Profile zu Löschen                         | 100min        |
+| 11.A | 21.03.23 | Sacher    | Kopieren eines Passworts                               | 100min        |
 
-Total: 28.3 Arbeitspakete
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+Total: 47.7 Arbeitspakete
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Zunächst haben wir beschlossen, das Programm in mehrere Forms aufzuteilen, um die Entwicklungsaufgaben besser auf die Entwickler zu verteilen und die Arbeitseffizienz zu erhöhen. Dabei haben wir auch die Funktionen und Eigenschaften jedes einzelnen Forms festgelegt.
+
+Wir haben sorgfältig entschieden, welche Funktionen auf unserem Niveau realisierbar sind und welche nicht. Basierend auf diesen Entscheidungen haben wir uns darauf geeinigt, welche Funktionen in das Programm aufgenommen werden sollen.
+
+Wir haben uns dazu entschieden, Listen zu verwenden, um die Werte zu speichern, da dies eine effektive und leicht zugängliche Methode ist.
+
+Wir haben uns für die Entwicklung in Winforms entschieden, da wir uns mit dieser Technologie wohl fühlen und sie unseren Anforderungen am besten entspricht.
+
+Wir haben uns für verschiedene Verschlüsselungsmethoden entschieden, jedoch letztendlich Frau Eser die finale Entscheidung überlassen, weil sie diesen Teil realisiert.
+
+Wir haben uns entschieden, die Profile in der Textdatei in einer bestimmten Reihenfolge zu speichern und welche Trennzeichen dabei zu verwenden sind, um die Lesbarkeit und Handhabung der Daten zu erleichtern.
+
+Die Entwicklungsaufgaben haben wir aufgrund der individuellen Kompetenzen der Programmierer aufgeteilt, damit jeder an einem Teil des Programms arbeiten kann, bei dem er etwas Neues lernen und seine Fähigkeiten erweitern kann.
 
 ## 4 Realisieren
 
