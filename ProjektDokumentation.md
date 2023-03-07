@@ -123,8 +123,23 @@ Die Entwicklungsaufgaben haben wir aufgrund der individuellen Kompetenzen der Pr
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  | 07.03.23 | Koelewijn | Entwicklung der Profil Erstellung                      | 150min        |    |
+| 2.A  | 07.03.23 | Koelewijn | Einlesen von Text Datei, speichern in Listen           | 150min        |    |
+| 2.B  | 07.03.23 | Koelewijn | überschreiben der Text Datei                           | 105min        |    |
+| 3.A  | 07.03.23 | Sacher    | Einlesen von Text Datei, speichern in Listen           | 100min        |    |
+| 3.B  | 07.03.23 | Sacher    | Liste ausgeben in der Applikation                      | 150min        |    |
+| 4.A  | 14.03.23 | Sacher    | Entwicklung Abrufen der Profilen und bearbeiten        | 150min        |    |
+| 4.B  | 14.03.23 | Koelewijn | Veränderung in der Liste beim Bearbeiten eines Profils | 150min        |    |
+| 5.A  | 07.03.23 | Eser      | Entwicklung der Verschlüsselung                        | 100min        |    |
+| 5.B  | 14.03.23 | Eser      | Entwicklung der Entschlüsselung                        | 100min        |    |
+| 5.C  | 14.03.23 | Eser      | Text Datei Verschlüsseln & Entschlüsseln               | 150min        |    |
+| 6.A  | 07.03.23 | Tuma      | Erste Version des UI                                   | 175min        |    |
+| 6.B  | 21.03.23 | Tuma      | Letzte Version des UI                                  | 175min        |    |
+| 7.A  | 14.03.23 | Tuma      | Entwicklung des Passwort Generator                     | 45min         |    |
+| 8.A  | 21.03.23 | Koeleiwjn | Entwicklung des Master Passworts                       | 150min        |    |
+| 9.A  | 21.03.23 | Sacher    | 6 Stelliger Sicherheitsschlüssel generieren lassen     | 100min        |    |
+| 10.A | 21.03.23 | Koelewijn | Entwicklung Profile zu Löschen                         | 100min        |    |
+| 11.A | 21.03.23 | Sacher    | Kopieren eines Passworts                               | 100min        |    |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
