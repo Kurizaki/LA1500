@@ -133,9 +133,9 @@ Die Entwicklungsaufgaben haben wir aufgrund der individuellen Kompetenzen der Pr
 | 5.A  | 07.03.23 | Eser      | Entwicklung der Verschlüsselung                        | 100min        |    |
 | 5.B  | 14.03.23 | Eser      | Entwicklung der Entschlüsselung                        | 100min        |    |
 | 5.C  | 14.03.23 | Eser      | Text Datei Verschlüsseln & Entschlüsseln               | 150min        |    |
-| 6.A  | 07.03.23 | Tuma      | Erste Version des UI                                   | 175min        |    |
-| 6.B  | 21.03.23 | Tuma      | Letzte Version des UI                                  | 175min        |    |
-| 7.A  | 14.03.23 | Tuma      | Entwicklung des Passwort Generator                     | 45min         |    |
+| 6.A  | 07.03.23 | Tuma      | Erste Version des UI                                   | 175min        |  175min  |
+| 6.B  | 21.03.23 | Tuma      | Letzte Version des UI                                  | 175min        |  175min  |
+| 7.A  | 14.03.23 | Tuma      | Entwicklung des Passwort Generator                     | 45min         |  20min  |
 | 8.A  | 21.03.23 | Koeleiwjn | Entwicklung des Master Passworts                       | 150min        |    |
 | 9.A  | 21.03.23 | Sacher    | 6 Stelliger Sicherheitsschlüssel generieren lassen     | 100min        |    |
 | 10.A | 21.03.23 | Koelewijn | Entwicklung Profile zu Löschen                         | 100min        |    |
