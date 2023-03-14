@@ -141,7 +141,6 @@ Die Entwicklungsaufgaben haben wir aufgrund der individuellen Kompetenzen der Pr
 | 10.A | 21.03.23 | Koelewijn | 100min        |                                   |
 | 11.A | 21.03.23 | Sacher    | 100min        | 50min |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
