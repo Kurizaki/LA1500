@@ -123,7 +123,7 @@ Die Entwicklungsaufgaben haben wir aufgrund der individuellen Kompetenzen der Pr
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 07.03.23 | Koelewijn | 150min        |    |
+| 1.A  | 07.03.23 | Koelewijn | 150min        |  100min  |
 | 2.A  | 07.03.23 | Koelewijn | 150min        |    |
 | 2.B  | 07.03.23 | Koelewijn | 105min        |    |
 | 3.A  | 07.03.23 | Sacher    | 100min        |    |
