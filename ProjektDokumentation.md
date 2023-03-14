@@ -121,25 +121,25 @@ Die Entwicklungsaufgaben haben wir aufgrund der individuellen Kompetenzen der Pr
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
-| ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 07.03.23 | Koelewijn | 150min        |  100min  |
-| 2.A  | 07.03.23 | Koelewijn | 150min        |    |
-| 2.B  | 07.03.23 | Koelewijn | 105min        |    |
-| 3.A  | 07.03.23 | Sacher    | 100min        |    |
-| 3.B  | 07.03.23 | Sacher    | 150min        |    |
-| 4.A  | 14.03.23 | Sacher    | 150min        |    |
-| 4.B  | 14.03.23 | Koelewijn | 150min        |    |
-| 5.A  | 07.03.23 | Eser      | 100min        |    |
-| 5.B  | 14.03.23 | Eser      | 100min        |    |
-| 5.C  | 14.03.23 | Eser      | 150min        |    |
-| 6.A  | 07.03.23 | Tuma      | 175min        |  175min  |
-| 6.B  | 21.03.23 | Tuma      | 175min        |  175min  |
-| 7.A  | 14.03.23 | Tuma      | 45min         |  20min  |
-| 8.A  | 21.03.23 | Koeleiwjn | 150min        |    |
-| 9.A  | 21.03.23 | Sacher    | 100min        |    |
-| 10.A | 21.03.23 | Koelewijn | 100min        |    |
-| 11.A | 21.03.23 | Sacher    | 100min        |    |
+| AP-№ | Datum    | Zuständig | geplante Zeit | tatsächliche Zeit                 |
+| ---- | -------- | --------- | ------------- | --------------------------------- |
+| 1.A  | 07.03.23 | Koelewijn | 150min        | 100min                            |
+| 2.A  | 07.03.23 | Koelewijn | 150min        | 100min                            |
+| 2.B  | 07.03.23 | Koelewijn | 105min        | 150min                            |
+| 3.A  | 07.03.23 | Sacher    | 100min        | 100min                            |
+| 3.B  | 07.03.23 | Sacher    | 150min        | 200min                            |
+| 4.A  | 14.03.23 | Sacher    | 150min        | 100min                            |
+| 4.B  | 14.03.23 | Koelewijn | 150min        | 100min                            |
+| 5.A  | 07.03.23 | Eser      | 100min        | 150min                            |
+| 5.B  | 14.03.23 | Eser      | 100min        | 150min                            |
+| 5.C  | 14.03.23 | Eser      | 150min        | 200min                            |
+| 6.A  | 07.03.23 | Tuma      | 175min        | 175min                            |
+| 6.B  | 21.03.23 | Tuma      | 175min        | 175min                            |
+| 7.A  | 14.03.23 | Tuma      | 45min         | 20min                             |
+| 8.A  | 21.03.23 | Koeleiwjn | 150min        | 200min                            |
+| 9.A  | 21.03.23 | Sacher    | 100min        | 50min                             |
+| 10.A | 21.03.23 | Koelewijn | 100min        |                                   |
+| 11.A | 21.03.23 | Sacher    | 100min        | 50min |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
