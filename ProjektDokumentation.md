@@ -138,7 +138,7 @@ Die Entwicklungsaufgaben haben wir aufgrund der individuellen Kompetenzen der Pr
 | 7.A  | 14.03.23 | Tuma      | 45min         | 20min                             |
 | 8.A  | 21.03.23 | Koeleiwjn | 150min        | 200min                            |
 | 9.A  | 21.03.23 | Sacher    | 100min        | 50min                             |
-| 10.A | 21.03.23 | Koelewijn | 100min        |                                   |
+| 10.A | 21.03.23 | Koelewijn | 100min        | 100min                            |
 | 11.A | 21.03.23 | Sacher    | 100min        | 50min |
 
 
