@@ -42,17 +42,17 @@ Wir haben uns dazu entschieden einen Passwortmanager zu programmieren. Dieser ve
 | ---- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
 | 1.1  | Benutzer ist im Menü                                                | Klickt auf "Profil Erstellen"                                                   | Ein neues Form wird geöffnet, in dem der Benutzer ein Profil erstellen kann.                                  |
 | 1.2  | Benutzer ist im Menü                                                | Klickt auf "Profil Ausgeben"                                                    | Die Liste aller gespeicherten Profile wird angezeigt, wenn welche vorhanden sind.                             |
-| 2.1  | Benutzer ist in der Profil-Erstellung                               | Gibt gültige Informationen in alle Felder ein und Klickt auf "Profil speichern" | Profil wird gespeichert und das Form schliesst sich, benutzer kehrt zum Menü zurück.                          |
+| 2.1  | Benutzer ist in der Profil-Erstellung                               | Gibt gültige Informationen in alle Felder ein und Klickt auf "Profil speichern" | Profil wird gespeichert und das Form schliesst sich, benutzer kehrt zum Menü zurück.                          |
 | 2.2  | Benutzer ist in der Profil-Erstellung                               | Gibt ungültige Informationen in ein Feld ein und Klickt auf "Profil speichern"  | Profil wird nicht gespeichert und eine Fehlermeldung wird ausgegeben.                                         |
-| 3.1  | Benutzer ist in der Profil-Erstellung                               | Gibt gültige Informationen in alle Felder ein und Klickt auf "Profil speichern" | Profil, Nutzername, Email, Passwort wird verschlüsselt und in die Text datei eingeschrieben.                  |
+| 3.1  | Benutzer ist in der Profil-Erstellung                               | Gibt gültige Informationen in alle Felder ein und Klickt auf "Profil speichern" | Profil, Nutzername, Email, Passwort wird verschlüsselt und in die Text datei eingeschrieben.                  |
 | 3.2  | Benutzer ist in der Profil-Erstellung                               | Gibt ungültige Informationen in ein Feld ein und Klickt auf "Profil speichern"  | Profil, Nutzername, Email, Passwort wird nicht verschlüsselt und nicht in die Text datei eingeschrieben.      |
-| 3.3  | Benutzer ist in der Profil-Erstellung                               | Klickt auf "Abbrechen"                                                          | Schliesst das Form und verwirft alle Änderungen.                                                              |
+| 3.3  | Benutzer ist in der Profil-Erstellung                               | Klickt auf "Zurück"                                                             | Schliesst das Form und verwirft alle Änderungen.                                                              |
 | 4.1  | Benutzer ist im Menü                                                | Klickt auf "Profil Ausgeben"                                                    | Die Liste aller gespeicherten Profile wird angezeigt.                                                         |
 | 4.2  | Benutzer ist in der Profil Ausgabe                                  | klickt auf "bearbeiten" eines bestimmten Profils                                | Neues Form öffnet sich, Profil mit bestimmten index wird ausgegeben.                                          |
 | 4.3  | Benutzer hat ein Profil ausgewählt und bearbeitet es                | Klickt auf "Profil speichern"                                                   | Die bearbeiteten Informationen werden im ausgewählten Profil gespeichert. Das Form schließt sich.             |
-| 4.4  | Benutzer hat ein Profil ausgewählt und bearbeitet es                | Klickt auf "Abbrechen"                                                          | Schliesst das Form und verwirft alle Änderungen.                                                              |
+| 4.4  | Benutzer hat ein Profil ausgewählt und bearbeitet es                | Klickt auf "Zurück"                                                             | Schliesst das Form und verwirft alle Änderungen.                                                              |
 | 5.1  | Benutzer Bestätigt aus ein Forms                                    | klickt auf bestätigung                                                          | Profil, Nutzername, Email, Passwort wird verschlüsselt, wird in Text datei eingeschrieben.                    |
-| 6.1  | Der Benutzer möchte eine bestimmte Funktion nutzen                  | Klick auf das entsprechende Symbol/Icon                                         | Der Benutzer wird zur entsprechenden Funktion weitergeleitet, wo er alle relevanten Informationen sehen kann. |
+| 6.1  | Der Benutzer möchte eine bestimmte Funktion nutzen                  | Klick auf das entsprechende Button                                              | Der Benutzer wird zur entsprechenden Funktion weitergeleitet, wo er alle relevanten Informationen sehen kann. |
 | 6.2  | Der Benutzer befindet sich auf einer Unterseite                     | Klick auf "Zurück"                                                              | Der Benutzer wird zur vorherigen Seite zurückgeleitet.                                                        |
 | 7.1  | Der Benutzer hat noch kein Passwort generiert                       | Klick auf "Passwort generieren"                                                 | Der Passwort-Generator generiert ein starkes, zufälliges Passwort und zeigt es dem Benutzer an.               |
 | 7.2  | Der Benutzer ist mit dem generierten Passwort nicht zufrieden       | Klick auf "Passwort generieren"                                                 | Der Passwort-Generator generiert ein neues, starkes, zufälliges Passwort.                                     |
@@ -63,7 +63,7 @@ Wir haben uns dazu entschieden einen Passwortmanager zu programmieren. Dieser ve
 | 9.2  | 5 mal falsches Passwort eingeben                                    | Sicherheitsschlüssel wird eingegeben                                            | Neue Registrierung des Master Passworts wird geöffnet                                                         |
 | 9.3  | 5 mal falsches Passwort eingeben                                    | 3 mal falscher Sicherheitsschlüssel eingegeben                                  | Programm wird beendet.                                                                                        |
 | 10.1 | Benutzer hat ein Profil ausgewählt und bearbeitet es                | Klickt auf "Profil Löschen"                                                     | Das ausgewählte Profil wird gelöscht und aus der Profil-Liste entfernt.                                       |
-| 11.1 | Benutzer ist in der Profil Ausgabe                                  | klickt auf "Passwort kopieren"                                                  | Das Passwort des ausgewählten Profils wird in die Zwischenablage kopiert.                                     |
+| 11.1 | Benutzer ist in der Profil Ausgabe                                  | Makiert das Passwort und kann es Kopieren                                       | Das Passwort des ausgewählten Profils wird in die Zwischenablage kopiert.                                     |
 
 ### 1.4 Diagramme
 
@@ -78,6 +78,10 @@ PAP nur mit Muss Verbindlichkeiten
 Zusätzliche Informieren und Planen unterlagen
 
 ![WhatsApp Image 2023-02-21 at 12 57 02](https://user-images.githubusercontent.com/110892283/220339634-b9d13d21-0e56-4590-a271-8f9b69887ba2.jpeg)
+
+
+[Password Manager.docx](https://github.com/Kurizaki/LA1500/files/11011250/Password.Manager.docx)
+
 
 ## 2 Planen
 
@@ -121,37 +125,58 @@ Die Entwicklungsaufgaben haben wir aufgrund der individuellen Kompetenzen der Pr
 
 ## 4 Realisieren
 
-| AP-№ | Datum    | Zuständig | geplante Zeit | tatsächliche Zeit                 |
-| ---- | -------- | --------- | ------------- | --------------------------------- |
-| 1.A  | 07.03.23 | Koelewijn | 150min        | 100min                            |
-| 2.A  | 07.03.23 | Koelewijn | 150min        | 100min                            |
-| 2.B  | 07.03.23 | Koelewijn | 105min        | 150min                            |
-| 3.A  | 07.03.23 | Sacher    | 100min        | 100min                            |
-| 3.B  | 07.03.23 | Sacher    | 150min        | 200min                            |
-| 4.A  | 14.03.23 | Sacher    | 150min        | 100min                            |
-| 4.B  | 14.03.23 | Koelewijn | 150min        | 100min                            |
-| 5.A  | 07.03.23 | Eser      | 100min        | 150min                            |
-| 5.B  | 14.03.23 | Eser      | 100min        | 150min                            |
-| 5.C  | 14.03.23 | Eser      | 150min        | 200min                            |
-| 6.A  | 07.03.23 | Tuma      | 175min        | 175min                            |
-| 6.B  | 21.03.23 | Tuma      | 175min        | 175min                            |
-| 7.A  | 14.03.23 | Tuma      | 45min         | 20min                             |
-| 8.A  | 21.03.23 | Koeleiwjn | 150min        | 200min                            |
-| 9.A  | 21.03.23 | Sacher    | 100min        | 50min                             |
-| 10.A | 21.03.23 | Koelewijn | 100min        | 100min                            |
-| 11.A | 21.03.23 | Sacher    | 100min        | 50min |
-
+| AP-№ | Datum    | Zuständig | geplante Zeit | tatsächliche Zeit |
+| ---- | -------- | --------- | ------------- | ----------------- |
+| 1.A  | 07.03.23 | Koelewijn | 150min        | 100min            |
+| 2.A  | 07.03.23 | Koelewijn | 150min        | 100min            |
+| 2.B  | 07.03.23 | Koelewijn | 105min        | 150min            |
+| 3.A  | 07.03.23 | Sacher    | 100min        | 100min            |
+| 3.B  | 07.03.23 | Sacher    | 150min        | 200min            |
+| 4.A  | 14.03.23 | Sacher    | 150min        | 100min            |
+| 4.B  | 14.03.23 | Koelewijn | 150min        | 100min            |
+| 5.A  | 07.03.23 | Eser      | 100min        | 150min            |
+| 5.B  | 14.03.23 | Eser      | 100min        | 150min            |
+| 5.C  | 14.03.23 | Eser      | 150min        | 200min            |
+| 6.A  | 07.03.23 | Tuma      | 175min        | 175min            |
+| 6.B  | 21.03.23 | Tuma      | 175min        | 175min            |
+| 7.A  | 14.03.23 | Tuma      | 45min         | 20min             |
+| 8.A  | 21.03.23 | Koeleiwjn | 150min        | 200min            |
+| 9.A  | 21.03.23 | Sacher    | 100min        | 50min             |
+| 10.A | 21.03.23 | Koelewijn | 100min        | 100min            |
+| 11.A | 21.03.23 | Sacher    | 100min        | 50min             |
 
 ## 5 Kontrollieren
 
 ### 5.1 Testprotokoll
 
-| TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| TC-№ | Datum    | Resultat     | Tester          |
+| ---- | -------- | ------------ | --------------- |
+| 1.1  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 1.2  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 2.1  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 2.2  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 3.1  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 3.2  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 3.3  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 4.1  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 4.2  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 4.3  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 4.4  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 5.1  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 6.1  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 6.2  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 7.1  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 7.2  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 7.3  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 8.1  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 8.2  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 9.1  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 9.2  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 9.3  | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 10.1 | 21.03.23 | Funktioniert | Keanu Koelewijn |
+| 11.1 | 21.03.23 | Funktioniert | Keanu Koelewijn |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Die durchgeführten Testfälle haben das Programm geprüft und stellen sicher, dass es für den Benutzer ein optimales Erlebnis bietet. Durch eine sorgfältige Prüfung aller Funktionalitäten und möglichen Anwendungsfälle konnten potenzielle Schwachstellen erkannt und beseitigt werden, was zu einer höheren Stabilität und Zuverlässigkeit des Programms beiträgt. Die Testfälle haben auch dazu beigetragen, sicherzustellen, dass das Programm effizient arbeitet und dass die Benutzeroberfläche benutzerfreundlich ist.
 
 ### 5.2 Exploratives Testen
 
