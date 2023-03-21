@@ -20,14 +20,37 @@ Wir haben gelernt wie Verschlüsselungen Funktionieren und wie man diese mit hil
 
 ## Beschreibung
 
-Verschlüsselungen sind Heutzutage sehr Wichtig zur Datensicherheit. Sie wird verwendet um die Vertraulichkeit von Daten zu gewähtrleisten und um Vertrauliche Daten sicher vor unautorisiertem Zugriff zu schützen. dabei wird z.B. ein Text verschlüsselt um Ihn unlesbar macht für andere Benutzer. Eine Verschlüsselte datei kann nur mit einem passenden schlüssel wieder entschlüsselt werden. Dadurch wird die Datei für einen Angreifer ohne den schlüssel nicht lesbar. AES (Advanced Encryption Standard) ist eine verschlüsselungsmethode die weit verbreitet ist  um Daten zu verschlüsseln. Darum haben wir uns auch für die AES Verschlüsselung in unserem Projekt entschieden. 
+Verschlüsselungen sind Heutzutage sehr Wichtig zur Datensicherheit. Sie wird verwendet um die Vertraulichkeit von Daten zu gewähtrleisten und um Vertrauliche Daten sicher vor unautorisiertem Zugriff zu schützen. dabei wird z.B. ein Text verschlüsselt um Ihn unlesbar macht für andere Benutzer. Eine Verschlüsselte datei kann nur mit einem passenden schlüssel wieder entschlüsselt werden. Dadurch wird die Datei für einen Angreifer ohne den schlüssel nicht lesbar. AES (Advanced Encryption Standard) ist eine verschlüsselungsmethode die weit verbreitet ist  um Daten zu verschlüsseln. Darum haben wir uns auch für die AES Verschlüsselung in unserem Projekt entschieden. Verschlüsselungen hängen aber von vielen aspekten ab, sogar die länge des Schlüssels ist wichtig um die verschlüsselung wichtiger zu machen.
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+### Verschlüsselung mithilfe einer Bibliothek:
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+Die Bibliothek wurde von anderen Entwickler Programmiert um Daten zu verschlüsseln, man Impotiert die Bibliothek und man kann mithilfe eines Codes des dazugehörigen Bibliothek die Daten verschlüsseln.
+
+z.B. bei der Bibliothek Twileloop.ExpressSecurity kann man Daten mit dem code
+
+```csharp
+AESEncription.AES_Encrypt(Dateipfad, schlüssel);
+```
+
+Verschlüsseln und mit dem code 
+
+```csharp
+AESEncription.AES_Decrypt(Dateipfad, encryptionpassword);
+```
+
+kann man sie entschlüsseln, der Code ist aber bei jeder Bibliothek anders also muss man sich erst erkundigen wie man die Daten verschlüsseln und Entschlüsseln kann.
+
+### Verschlüsselung selber Programmiert:
+
+Es ist viel schwieriger eine verschlüsselung selbst zu programmieren, denn sie kann fehleranfällig sein und wenn man eine eigene neue Verschlüsselung dazu noch programmieren will muss man sich zuerst ein konzep überlegen um die Daten sicher zu verschlüsseln. Ein Beispiel Code kann hier leider nicht vorgeführt werden denn es ist viel komplizierter und der Code wäre viel länger.
+
+
+
+
+
+![Verschlüsselung](C:\Users\keanu\Downloads\Verschlüsselung.gif)
+
+Hier wird die Verschlüsselung und Entschlüsselung einer Datei mithilfe von einer Bibliothek getätigt.
 
 ## Verifikation
 
@@ -40,3 +63,5 @@ Verschlüsselungen sind Heutzutage sehr Wichtig zur Datensicherheit. Sie wird ve
 👎 und etwas, was nicht gut lief.
 
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+
+
