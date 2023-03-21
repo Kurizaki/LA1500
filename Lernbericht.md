@@ -1,5 +1,11 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+-Koelewijn (Projektleiter & Entwickler)
+
+-Tuma (Grafikdesigner & Entwickler)
+
+-Eser (Entwicklerin)
+
+-Sacher (Entwickler)
 
 ## Einleitung
 
