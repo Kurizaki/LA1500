@@ -1,4 +1,4 @@
-## Gruppe Carnation:
+## Gruppe Camelia:
 
 -Koelewijn (Projektleiter & Entwickler)
 
