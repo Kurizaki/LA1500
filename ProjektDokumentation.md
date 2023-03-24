@@ -183,8 +183,8 @@ Die durchgeführten Testfälle haben das Programm geprüft und stellen sicher, d
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
 | I    |  Programm wird gestartet            |   5 Mausklicks auf weiter      |        Falsche Eingabe           |        Fenster für Sicherheitsschlüssel öffnet sich|
-| II |     Fenster für Sicherheitsschlüssel ist geöffnet         | 5 Mausklicks auf weiter   |  Falsche Eingabe |  Programm wird beendet   |
-| III |              |         |                   |                      |
+| II |     Fenster für Sicherheitsschlüssel ist geöffnet         | 3 Mausklicks auf weiter   |  Falsche Eingabe |  Programm wird beendet   |
+| III |    Fenster für Änderung von Masterpasswort ist offen          |   Beenden Taste      |  vorheriges Fenster wird geöffnet            |     Programm schliesst sich                 |
 | IV |              |         |                   |                      |
 | V |              |         |                   |                      |
 
