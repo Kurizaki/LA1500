@@ -182,8 +182,11 @@ Die durchgeführten Testfälle haben das Programm geprüft und stellen sicher, d
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
+| I    |  Programm wird gestartet            |   5 Mausklicks auf weiter      |        Falsche Eingabe           |        Fenster für Sicherheitsschlüssel öffnet sich|
+| II |     Fenster für Sicherheitsschlüssel ist geöffnet         | 5 Mausklicks auf weiter   |  Falsche Eingabe |  Programm wird beendet   |
+| III |              |         |                   |                      |
+| IV |              |         |                   |                      |
+| V |              |         |                   |                      |
 
 ✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
