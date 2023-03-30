@@ -189,4 +189,4 @@ Die durchgeführten Testfälle haben das Programm geprüft und stellen sicher, d
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+[Lern Bericht](https://github.com/Kurizaki/LA1500/blob/main_project/Lernbericht.md)
