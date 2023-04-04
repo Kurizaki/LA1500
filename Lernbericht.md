@@ -58,10 +58,11 @@ Hier wird die Verschlüsselung und Entschlüsselung einer Datei mithilfe von ein
 
 - In dem Youtube Video wird veranschaulicht, wie eine Textdatei verschlüsselt und anschliessend wieder entschlüsselt wird.
 
-# Reflexion zum Arbeitsprozess
+# Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+**Was gut lief:** Während des Arbeitsprozesses verlief die Arbeit in der Gruppe reibungslos und die Kommunikation war hervorragend. Durch regelmäßige Besprechungen der Fortschritte und gegenseitige Unterstützung konnte das Team erfolgreich zusammenarbeiten. Dies war möglich durch geplante organisation der verteilten Aufgaben und kompetenzen.
 
-👎 und etwas, was nicht gut lief.
+**Was nicht so gut lief:** Es kam vor, dass Aufgaben schneller als erwartet erledigt wurden, was dazu führte, dass einige Gruppenmitglieder weniger zu tun hatten als andere.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Um die Effizienz zu steigern, sollte die Aufgabenverteilung so gestaltet werden, dass Mitglieder, die schneller als erwartet mit ihren Aufgaben fertig sind, anderen Mitgliedern helfen können oder an einer anderen Aufgabe arbeiten können, die mehr Zeit benötigt.
+
