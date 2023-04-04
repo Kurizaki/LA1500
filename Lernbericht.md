@@ -52,7 +52,9 @@ Hier wird die Verschlüsselung und Entschlüsselung einer Datei mithilfe von ein
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Der erste Codeteil zeigt wie die Daten mit der AES Verschlüsselung verschlüsselt werden
+Der zweite Codeteil zeigt wie die Daten mit der AES Verschlüsselung entschlüsselt werden
+In dem Youtube Video wird veranschaulicht, wie eine Textdatei verschlüsselt und anschliessend wieder entschlüsselt wird.
 
 # Reflexion zum Arbeitsprozess
 
