@@ -18,7 +18,7 @@
 
 ### 1.1 Ihr Projekt
 
-Wir haben uns dazu entschieden einen Passwortmanager zu programmieren. Dieser verschlüsselt und speichert die Passwörter, damit sie sicher sind und man sie nicht vergessen kann. Die Passwörter und E-Mails sollen je in einem Profil gespeichert werden, welches man einzeln hervorrufen kann, damit man nicht zuerst nach den richtigen Daten suchen muss. Zudem wollen wir noch ein schönes UI machen, welches dem Benutzer das Gefühl von Sicherheit gibt.
+Wir haben uns dazu entschieden, einen Passwortmanager zu programmieren. Dieser verschlüsselt und speichert die Passwörter, damit sie sicher sind und man sie nicht vergessen kann. Die Passwörter und E-Mails sollen je in einem Profil gespeichert werden, welches man einzeln hervorrufen kann, damit man nicht zuerst nach den richtigen Daten suchen muss. Zudem wollen wir noch ein schönes UI machen, welches dem Benutzer das Gefühl von Sicherheit gibt.
 
 ### 1.2 User Stories
 
@@ -79,9 +79,7 @@ Zusätzliche Informieren und Planen unterlagen
 
 ![WhatsApp Image 2023-02-21 at 12 57 02](https://user-images.githubusercontent.com/110892283/220339634-b9d13d21-0e56-4590-a271-8f9b69887ba2.jpeg)
 
-
 [Password Manager.docx](https://github.com/Kurizaki/LA1500/files/11011250/Password.Manager.docx)
-
 
 ## 2 Planen
 
@@ -180,12 +178,11 @@ Die durchgeführten Testfälle haben das Programm geprüft und stellen sicher, d
 
 ### 5.2 Exploratives Testen
 
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+| BR-№ | Ausgangslage                                        | Eingabe                 | Erwartete Ausgabe                                      | Tatsächliche Ausgabe                         |
+| ---- | --------------------------------------------------- | ----------------------- | ------------------------------------------------------ | -------------------------------------------- |
+| I    | Programm wird gestartet                             | 5 Mausklicks auf weiter | Falsche Eingabe                                        | Fenster für Sicherheitsschlüssel öffnet sich |
+| II   | Fenster für Sicherheitsschlüssel ist geöffnet       | 3 Mausklicks auf weiter | Falsche Eingabe                                        | Programm wird beendet                        |
+| III  | Fenster für Änderung von Masterpasswort ist göffnet | Beenden Button          | Menu mit verschiedenen Funktionen wird wieder geöffnet | Programm schliesst sich                      |
 
 ## 6 Auswerten
 
