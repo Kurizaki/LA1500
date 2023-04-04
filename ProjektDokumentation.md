@@ -71,7 +71,8 @@ Wir haben uns dazu entschieden, einen Passwortmanager zu programmieren. Dieser v
 
 UC Diagramm
 
-![MicrosoftTeams-image (2)](C:\Users\keanu\Downloads\MicrosoftTeams-image%20(2).png)
+![MicrosoftTeams-image (2)](https://user-images.githubusercontent.com/110892283/229720458-130a7105-67fd-4f8b-9d2a-2e836d461f19.png)
+
 
 PAP nur mit Muss Verbindlichkeiten
 
