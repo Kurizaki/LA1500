@@ -9,7 +9,7 @@
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Wir haben in dem Projekt LA 1500
 
 ## Was habe ich gelernt?
 
