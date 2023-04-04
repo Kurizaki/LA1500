@@ -8,11 +8,13 @@
 
 -Sacher (Entwickler)
 
-| Datum    | Version | Zusammenfassung                                                                                                    |
-| -------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
-| 21.02.23 | 0.0.1   | Projekt Idee und konzept des programms wurde Festgelegt. Eine erste Version von 1.1, 1.2 und 1.4 wurde bearbeitet. |
-| 28.02.23 | 0.0.2   | Die Plannung wurde organisiert, die Aufgaben wurden aufgeteilt und 1.3, 2 und 3 wurden bearbeitet.                 |
-| 01.03.23 | 0.03    | 1.2, 1.3, 2 und 3 wurden überarbeitet.                                                                             |
+| Datum      | Version | Zusammenfassung                                                                                                    |
+| ---------- | ------- | ------------------------------------------------------------------------------------------------------------------ |
+| 21.02.23   | 0.0.1   | Projekt Idee und konzept des programms wurde Festgelegt. Eine erste Version von 1.1, 1.2 und 1.4 wurde bearbeitet. |
+| 28.02.23   | 0.0.2   | Die Plannung wurde organisiert, die Aufgaben wurden aufgeteilt und 1.3, 2 und 3 wurden bearbeitet.                 |
+| 01.03.23   | 0.0.3   | 1.2, 1.3, 2 und 3 wurden überarbeitet.                                                                             |
+| 21.03.2023 | 0.0.4   | 5.1 und 5,2 wurde hinzugefügt und überarbeitet.                                                                    |
+| 04.04.2023 | 1.0.0   | überarbeitung und kontrolle alle punkten und 6 hinzugefügt.                                                        |
 
 ## 1 Informieren
 
@@ -69,7 +71,7 @@ Wir haben uns dazu entschieden, einen Passwortmanager zu programmieren. Dieser v
 
 UC Diagramm
 
-<img width="535" alt="Bildschirm­foto 2023-02-21 um 11 40 11 AM" src="https://user-images.githubusercontent.com/89131189/220322734-e3646ffe-c5fe-450c-b0a0-3362e5c2d34c.png">
+![MicrosoftTeams-image (2)](C:\Users\keanu\Downloads\MicrosoftTeams-image%20(2).png)
 
 PAP nur mit Muss Verbindlichkeiten
 
